@@ -132,31 +132,17 @@ install
 
                                             
 
-                                              ."""-.
-                                             /      \
- ____  _               _            _        |  _..--'-.
-/ ___|| |__   ___ _ __| | ___   ___| |__    >.`__.-""\;"`
-\___ \| '_ \ / _ \ '__| |/ _ \ / __| |/ /   / /(     ^\
- ___) | | | |  __/ |  | | (_) | (__|   <    '-`)     =|-.
-|____/|_| |_|\___|_|  |_|\___/ \___|_|\_\    /`--.'--'   \ .-.
-                                           .'`-._ `.\    | J /
-                                          /      `--.|   \__/
 
 
-
-
-
-
-
-
+Sherlock 
 Install Python & Sherlock
 
-~$ git clone https://github.com/sherlock-project/sherlock.git
-~$ cd sherlock
-~/sherlock$ pip3 install -r requirements.txt
+git clone https://github.com/sherlock-project/sherlock.git
+cd sherlock
+pip3 install -r requirements.txt
 Once it's finished installing, you can run python3 sherlock.py -h from inside the /sherlock folder to see the help menu.
-~$ cd sherlock
-~/sherlock$ python3 sherlock (username) --nsfw --print-found
+cd sherlock
+python3 sherlock (username) --nsfw --print-found
 
 
 
